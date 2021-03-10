@@ -1,0 +1,44 @@
+{
+  "app": {
+    "title": "meter record app",
+    "description": "this app is use to record meter's stores in every branch. "
+  },
+  "login": {
+    "signInWith": "sign in with",
+    "tryDemo": "try demo app",
+    "lang": "Change Language EN/TH"
+  },
+  "search": {
+    "input": "Enter a search ID/Branch"
+  },
+  "loading": {
+    "wait": "Loading...",
+    "success": "Sign in successfully",
+    "fail": "Sign in failed",
+    "tryDemo": "try demo"
+  },
+  "branchList": {
+    "title": "Branch",
+    "search": "Enter a search ID/Branch",
+    "item": {
+      "name": ""
+    },
+    "meter": {
+      "water": "Water",
+      "fire": "Fire",
+      "gas": "Gas"
+    }
+  },
+  "branchDetail": {
+    "title": "Branch",
+    "search": "Enter a search ID/Branch",
+    "item": {
+      "name": ""
+    },
+    "meter": {
+      "water": "Water",
+      "fire": "Fire",
+      "gas": "Gas"
+    }
+  }
+}
